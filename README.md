@@ -11,4 +11,5 @@ Features:
 
 Requirements:
 1- Python 3.x
+
 2-PyPDF2 (pip install PyPDF2)
